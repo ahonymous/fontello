@@ -13,12 +13,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "ccc2329632396dc096bb638d4b46fb98",
-      "css": "mail-alt",
-      "code": 59418,
-      "src": "fontawesome"
-    },
-    {
       "uid": "0357f7abbc0babf43509669f332e41e6",
       "css": "mobile",
       "code": 59414,
@@ -79,18 +73,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "2cfac2c1a9eb4552af0eba34def4b010",
-      "css": "skype-outline",
-      "code": 59392,
-      "src": "typicons"
-    },
-    {
-      "uid": "ae3so8q0b0n2h8esv9flua2nmwswa8fd",
-      "css": "mail-1",
-      "code": 59419,
-      "src": "modernpics"
-    },
-    {
       "uid": "m3m8301t2xdy30x4lp7txm0vztl67tcl",
       "css": "mobile-1",
       "code": 59416,
@@ -107,12 +89,6 @@
       "css": "twitter-rect",
       "code": 59396,
       "src": "modernpics"
-    },
-    {
-      "uid": "a17986e457f3d85f26c9c240dfd6a4ba",
-      "css": "mail-2",
-      "code": 59420,
-      "src": "mfglabs"
     },
     {
       "uid": "96aafeab29734d1510805687f7695f8f",
@@ -179,18 +155,6 @@
       "css": "phone-circled",
       "code": 59413,
       "src": "elusive"
-    },
-    {
-      "uid": "34cfa573b7d6c70c298dfad4cac4d466",
-      "css": "vkontakte-2",
-      "code": 59401,
-      "src": "elusive"
-    },
-    {
-      "uid": "cba6018f5de17c76f70b7d2c06037e5a",
-      "css": "mail-3",
-      "code": 59422,
-      "src": "websymbols"
     }
   ]
 }
