@@ -1,15 +1,15 @@
 {
-    "name": "ahonymous/fontello",
-    "description": "fontello icon facebook, vk and odnoclassniki",
-    "keywords": ["css", "font", "icons"],
-    "homepage": "https://github.com/ahonymous/fontello.git",
-    "license": "MIT",
+    "name":         "ahonymous/fontello",
+    "type":         "library",
+    "description":  "fontello icon facebook, vk and odnoclassniki",
+    "keywords":     ["css", "font", "icons"],
+    "homepage":     "https://github.com/ahonymous/fontello.git",
+    "license":      "MIT",
     "authors": [
         {
             "name": "Moshta O.",
             "email": "ahonymous@gmail.com",
             "homepage": "https://github.com/ahonymous/"
         }
-    ],
-    "target-dir": "ahonymous/fontello"
+    ]
 }
