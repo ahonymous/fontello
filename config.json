@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4a02cc611ae9fb342d6026b2ed6cc44e",
+      "css": "odnoklassniki-rect",
+      "code": 59392,
+      "src": "brandico"
+    },
+    {
+      "uid": "ebbe0cc0600cb69375abc20af545967f",
+      "css": "facebook-rect",
+      "code": 59394,
+      "src": "websymbols"
+    },
+    {
+      "uid": "f6dfd6896053ff75262b8ad4baec251e",
+      "css": "vkontakte-rect",
+      "code": 59393,
+      "src": "websymbols"
+    }
+  ]
+}
