@@ -1,0 +1,8 @@
+{
+    "name": "ahonymous/fontello",
+    "description": "Iconic fonts scissors for web application design",
+    "keywords": ["css", "font", "icons"],
+    "homepage": "https://github.com/ahonymous/fontello.git",
+    "type": "symfony-bundle",
+    "license": "MIT"
+}
