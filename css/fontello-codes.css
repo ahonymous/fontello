@@ -23,5 +23,6 @@
 .icon-vkontakte-rect:before { content: '\e80a'; } /* '' */
 .icon-odnoklassniki:before { content: '\e80c'; } /* '' */
 .icon-odnoklassniki-rect:before { content: '\e80d'; } /* '' */
+.icon-location:before { content: '\e809'; } /* '' */
 .icon-phone:before { content: '\e814'; } /* '' */
 .icon-twitter-rect:before { content: '\e804'; } /* '' */
